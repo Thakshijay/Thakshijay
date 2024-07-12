@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Thakshijay/Thakshijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-### Let's Talk About Me
 
 <h1 align="center">Hey ! I'm Thakshila Jayasinghe</h1>
-<h3 align="center">Passionate about Coding"</h3>
+<p align="center">
+	<a href="https://github.com/Thakshijay">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Passionate+about+Coding&center=true&width=380&height=45">
+	</a>
+</p>
+
 
 - 🌱 I’m currently learning **React**
 
