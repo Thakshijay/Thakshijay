@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+#Let's Talk About Me
 
 <h1 align="center">Hey ! I'm Thakshila Jayasinghe</h1>
 <h3 align="center">Passionate about Coding"</h3>
