@@ -14,16 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Thakshila Jayasinghe</h1>
-<h3 align="center">Passionate about Coding"</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **HTML / CSS**
-
-- ⚡ Fun fact **They call me Thaki**
-
-<h1 align="center">Hi 👋, I'm Thakshila Jayasinghe</h1>
+<h1 align="center">Hey ! Thakshila Jayasinghe</h1>
 <h3 align="center">Passionate about Coding"</h3>
 
 - 🌱 I’m currently learning **React**
