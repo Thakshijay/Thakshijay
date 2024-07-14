@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML / CSS**
+- 💬 Ask me about **HTML**
 
 - ⚡ Fun fact **They call me Thaki**
 
