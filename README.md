@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 </p>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **Java**
 
 - ⚡ Fun fact **They call me Thaki**
 
